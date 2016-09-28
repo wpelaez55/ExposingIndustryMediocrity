@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="fonts" name="font_size">14</item>
+    <item type="fonts" name="font_weight">normal</item>
+    <item type="fonts" name="font_style">none</item>
+    <item type="fonts" name="anti_aliasing">false</item>
+</resources>

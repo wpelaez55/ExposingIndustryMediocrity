@@ -1,0 +1,212 @@
+package com.konylabs.api;
+
+import com.konylabs.api.ui.cu;
+import com.konylabs.libintf.LibraryWithConstants;
+import java.util.Hashtable;
+
+/* renamed from: com.konylabs.api.h */
+public final class C0434h implements LibraryWithConstants {
+    private static String[] f3525a;
+
+    static {
+        f3525a = new String[0];
+    }
+
+    public final Object[] execute(int i, Object[] objArr) {
+        return null;
+    }
+
+    public final Hashtable getConstants() {
+        Hashtable hashtable = new Hashtable();
+        hashtable.put("APPLICATION_MODE_NATIVE", Double.valueOf(1.0d));
+        hashtable.put("APPLICATION_MODE_HYBRID", Double.valueOf(2.0d));
+        hashtable.put("APPLICATION_MODE_WRAPPER", Double.valueOf(3.0d));
+        hashtable.put("TEXTBOX_INPUT_MODE_NUMERIC", "N");
+        hashtable.put("TEXTBOX_INPUT_MODE_ANY", "A");
+        hashtable.put("TEXTBOX_VIEW_TYPE_DEFAULT", "textbox");
+        hashtable.put("TEXTBOX_VIEW_TYPE_SEARCH_VIEW", "searchbox");
+        hashtable.put("CONTAINER_HEIGHT_BY_FORM_REFERENCE", Double.valueOf(1.0d));
+        hashtable.put("CONTAINER_HEIGHT_BY_PARENT_WIDTH", Double.valueOf(2.0d));
+        hashtable.put("TEXTBOX_FONT_METRICS_DRIVEN_HEIGHT", Double.valueOf(3.0d));
+        hashtable.put("TEXTBOX_CUSTOM_HEIGHT", Double.valueOf(4.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_DEFAULT", Double.valueOf(0.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_EMAIL", Double.valueOf(9.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_URL", Double.valueOf(10.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_CHAT", Double.valueOf(0.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_DECIMAL", Double.valueOf(6.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_NUMBER_PAD", Double.valueOf(8.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_PHONE_PAD", Double.valueOf(5.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_SIGNED_NUMBER", Double.valueOf(5.0d));
+        hashtable.put("TEXTBOX_KEY_BOARD_STYLE_SIGNED_DECIMAL_NUMBER", Double.valueOf(7.0d));
+        hashtable.put("TEXTBOX_AUTO_CAPITALIZE_NONE", Double.valueOf(0.0d));
+        hashtable.put("TEXTBOX_AUTO_CAPITALIZE_WORDS", Double.valueOf(1.0d));
+        hashtable.put("TEXTBOX_AUTO_CAPITALIZE_SENTENCES", Double.valueOf(2.0d));
+        hashtable.put("TEXTBOX_AUTO_CAPITALIZE_ALL", Double.valueOf(3.0d));
+        hashtable.put("TEXTBOX_NUMERIC_PASSWORD", Double.valueOf(11.0d));
+        hashtable.put("TEXTBOX_KEYBOARD_ACTION_BUTTON_DONE", Double.valueOf(0.0d));
+        hashtable.put("TEXTBOX_KEYBOARD_ACTION_BUTTON_GO", Double.valueOf(1.0d));
+        hashtable.put("TEXTBOX_KEYBOARD_ACTION_BUTTON_NEXT", Double.valueOf(2.0d));
+        hashtable.put("TEXTBOX_KEYBOARD_ACTION_BUTTON_SEARCH", Double.valueOf(3.0d));
+        hashtable.put("TEXTBOX_KEYBOARD_ACTION_BUTTON_SEND", Double.valueOf(4.0d));
+        hashtable.put("TEXTBOX_KEYBOARD_ACTION_BUTTON_PREVIOUS", Double.valueOf(5.0d));
+        hashtable.put("TEXTAREA_INPUT_MODE_NUMERIC", "N");
+        hashtable.put("TEXTAREA_INPUT_MODE_ANY", "A");
+        hashtable.put("TEXTBOX_VIEW_TYPE_DEFAULT", "textbox");
+        hashtable.put("TEXTBOX_VIEW_TYPE_SEARCH_VIEW", "searchbox");
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_DEFAULT", Double.valueOf(0.0d));
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_EMAIL", Double.valueOf(9.0d));
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_URL", Double.valueOf(10.0d));
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_CHAT", Double.valueOf(0.0d));
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_DECIMAL", Double.valueOf(6.0d));
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_NUMBER_PAD", Double.valueOf(8.0d));
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_PHONE_PAD", Double.valueOf(5.0d));
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_SIGNED_NUMBER", Double.valueOf(5.0d));
+        hashtable.put("TEXTAREA_KEY_BOARD_STYLE_SIGNED_DECIMAL_NUMBER", Double.valueOf(7.0d));
+        hashtable.put("TEXTAREA_AUTO_CAPITALIZE_NONE", Double.valueOf(0.0d));
+        hashtable.put("TEXTAREA_AUTO_CAPITALIZE_WORDS", Double.valueOf(1.0d));
+        hashtable.put("TEXTAREA_AUTO_CAPITALIZE_SENTENCES", Double.valueOf(2.0d));
+        hashtable.put("TEXTAREA_AUTO_CAPITALIZE_ALL", Double.valueOf(3.0d));
+        hashtable.put("IMAGE_SCALE_MODE_CROP", Double.valueOf(1.0d));
+        hashtable.put("IMAGE_SCALE_MODE_MAINTAIN_ASPECT_RATIO", Double.valueOf(2.0d));
+        hashtable.put("IMAGE_SCALE_MODE_FIT_TO_DIMENSIONS", Double.valueOf(3.0d));
+        hashtable.put("WIDGET_ALIGN_TOP_LEFT", Double.valueOf(1.0d));
+        hashtable.put("WIDGET_ALIGN_TOP_CENTER", Double.valueOf(2.0d));
+        hashtable.put("WIDGET_ALIGN_TOP_RIGHT", Double.valueOf(3.0d));
+        hashtable.put("WIDGET_ALIGN_MIDDLE_LEFT", Double.valueOf(4.0d));
+        hashtable.put("WIDGET_ALIGN_CENTER", Double.valueOf(5.0d));
+        hashtable.put("WIDGET_ALIGN_MIDDLE_RIGHT", Double.valueOf(6.0d));
+        hashtable.put("WIDGET_ALIGN_BOTTOM_LEFT", Double.valueOf(7.0d));
+        hashtable.put("WIDGET_ALIGN_BOTTOM_CENTER", Double.valueOf(8.0d));
+        hashtable.put("WIDGET_ALIGN_BOTTOM_RIGHT", Double.valueOf(9.0d));
+        hashtable.put("CHECKBOX_ITEM_ORIENTATION_VERTICAL", "vertical");
+        hashtable.put("CHECKBOX_ITEM_ORIENTATION_HORIZONTAL", "horizontal");
+        hashtable.put("RADIOGROUP_ITEM_ORIENTATION_VERTICAL", "vertical");
+        hashtable.put("RADIOGROUP_ITEM_ORIENTATION_HORIZONTAL", "horizontal");
+        hashtable.put("LISTBOX_VIEW_TYPE_LISTVIEW", Double.valueOf(0.0d));
+        hashtable.put("LISTBOX_VIEW_TYPE_SPINNER", Double.valueOf(1.0d));
+        hashtable.put("BOX_LAYOUT_HORIZONTAL", "horizontal");
+        hashtable.put("BOX_LAYOUT_VERTICAL", "vertical");
+        hashtable.put("BOX_LAYOUT_ALIGN_FROM_LEFT", Double.valueOf(1.0d));
+        hashtable.put("BOX_LAYOUT_ALIGN_FROM_CENTER", Double.valueOf(2.0d));
+        hashtable.put("BOX_LAYOUT_ALIGN_FROM_RIGHT", Double.valueOf(3.0d));
+        hashtable.put("BOX_POSITION_AS_HEADER", Double.valueOf(1.0d));
+        hashtable.put("BOX_POSITION_AS_FOOTER", Double.valueOf(2.0d));
+        hashtable.put("BOX_POSITION_AS_SCREENLEVEL_SEG_HEADER", Double.valueOf(3.0d));
+        hashtable.put("BOX_POSITION_AS_SCREENLEVEL_SEG_FOOTER", Double.valueOf(4.0d));
+        hashtable.put("FORM_TYPE_NATIVE", Double.valueOf(0.0d));
+        hashtable.put("FORM_TYPE_STATIC", Double.valueOf(1.0d));
+        hashtable.put("FORM_TYPE_DYNAMIC", Double.valueOf(2.0d));
+        hashtable.put("FORM_DISPLAY_ORIENTATION_PORTRAIT", Double.valueOf(0.0d));
+        hashtable.put("FORM_DISPLAY_ORIENTATION_LANDSCAPE", Double.valueOf(1.0d));
+        hashtable.put("FORM_DISPLAY_ORIENTATION_BOTH", Double.valueOf(2.0d));
+        hashtable.put("FORM_ADJUST_RESIZE", Double.valueOf(0.0d));
+        hashtable.put("FORM_ADJUST_PAN", Double.valueOf(1.0d));
+        hashtable.put("FORM_FORWARD_NAVIGATION", Double.valueOf(2.0d));
+        hashtable.put("FORM_MENU_POSITION_AFTER_APPMENU", Double.valueOf(0.0d));
+        hashtable.put("FORM_MENU_POSITION_BEFORE_APPMENU", Double.valueOf(1.0d));
+        hashtable.put("POPUP_TYPE_NATIVE", Double.valueOf(0.0d));
+        hashtable.put("POPUP_TYPE_SPA", Double.valueOf(1.0d));
+        hashtable.put("POPUP_TYPE_TC", Double.valueOf(2.0d));
+        hashtable.put("POPUP_ADJUST_RESIZE", Double.valueOf(0.0d));
+        hashtable.put("POPUP_ADJUST_PAN", Double.valueOf(1.0d));
+        hashtable.put("POPUP_FORWARD_NAVIGATION", Double.valueOf(2.0d));
+        hashtable.put("ALERT_TYPE_INFO", Double.valueOf(0.0d));
+        hashtable.put("ALERT_TYPE_ERROR", Double.valueOf(1.0d));
+        hashtable.put("ALERT_TYPE_CONFIRMATION", Double.valueOf(2.0d));
+        hashtable.put("ALERT_CONTENT_ALIGN_LEFT", Double.valueOf(1.0d));
+        hashtable.put("ALERT_CONTENT_ALIGN_CENTER", Double.valueOf(2.0d));
+        hashtable.put("ALERT_CONTENT_ALIGN_RIGHT", Double.valueOf(3.0d));
+        hashtable.put("ALERT_ICON_POSITION_LEFT", Double.valueOf(1.0d));
+        hashtable.put("ALERT_ICON_POSITION_RIGHT", Double.valueOf(2.0d));
+        hashtable.put("WIDGET_ALIGN_TOP_LEFT", Double.valueOf(1.0d));
+        hashtable.put("WIDGET_ALIGN_TOP_CENTER", Double.valueOf(2.0d));
+        hashtable.put("WIDGET_ALIGN_TOP_RIGHT", Double.valueOf(3.0d));
+        hashtable.put("WIDGET_ALIGN_MIDDLE_LEFT", Double.valueOf(4.0d));
+        hashtable.put("WIDGET_ALIGN_CENTER", Double.valueOf(5.0d));
+        hashtable.put("WIDGET_ALIGN_MIDDLE_RIGHT", Double.valueOf(6.0d));
+        hashtable.put("WIDGET_ALIGN_BOTTOM_LEFT", Double.valueOf(7.0d));
+        hashtable.put("WIDGET_ALIGN_BOTTOM_CENTER", Double.valueOf(8.0d));
+        hashtable.put("WIDGET_ALIGN_BOTTOM_RIGHT", Double.valueOf(9.0d));
+        hashtable.put("CONTENT_ALIGN_TOP_LEFT", Double.valueOf(1.0d));
+        hashtable.put("CONTENT_ALIGN_TOP_CENTER", Double.valueOf(2.0d));
+        hashtable.put("CONTENT_ALIGN_TOP_RIGHT", Double.valueOf(3.0d));
+        hashtable.put("CONTENT_ALIGN_MIDDLE_LEFT", Double.valueOf(4.0d));
+        hashtable.put("CONTENT_ALIGN_CENTER", Double.valueOf(5.0d));
+        hashtable.put("CONTENT_ALIGN_MIDDLE_RIGHT", Double.valueOf(6.0d));
+        hashtable.put("CONTENT_ALIGN_BOTTOM_LEFT", Double.valueOf(7.0d));
+        hashtable.put("CONTENT_ALIGN_BOTTOM_CENTER", Double.valueOf(8.0d));
+        hashtable.put("CONTENT_ALIGN_BOTTOM_RIGHT", Double.valueOf(9.0d));
+        hashtable.put("APPLICATION_MODE_NATIVE", Double.valueOf(1.0d));
+        hashtable.put("APPLICATION_MODE_HYBDRID", Double.valueOf(2.0d));
+        hashtable.put("APPLICATION_MODE_WRAPPER", Double.valueOf(3.0d));
+        hashtable.put("DEVICE_ORIENTATION_PORTRAIT", Double.valueOf(1.0d));
+        hashtable.put("DEVICE_ORIENTATION_LANDSCAPE", Double.valueOf(2.0d));
+        hashtable.put("WEBWIDGET_REQUEST_METHOD_GET", "get");
+        hashtable.put("WEBWIDGET_REQUEST_METHOD_POST", "post");
+        hashtable.put("MAP_PROVIDER_GOOGLE", Double.valueOf(1.0d));
+        hashtable.put("MAP_VIEW_MODE_NORMAL", Double.valueOf(1.0d));
+        hashtable.put("MAP_VIEW_MODE_SATELLITE", Double.valueOf(2.0d));
+        hashtable.put("MAP_VIEW_MODE_STREET", Double.valueOf(4.0d));
+        hashtable.put("MAP_VIEW_MODE_TRAFFIC", Double.valueOf(6.0d));
+        hashtable.put("CALENDAR_VIEW_TYPE_DEFAULT", Double.valueOf(1.0d));
+        hashtable.put("CALENDAR_VIEW_TYPE_GRID_ONSCREEN", Double.valueOf(2.0d));
+        hashtable.put("CALENDAR_VIEW_TYPE_GRID_POPUP", Double.valueOf(3.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_TABLEVIEW", Double.valueOf(0.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_PAGEVIEW", Double.valueOf(1.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_COVERFLOW", Double.valueOf(2.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_STACK", Double.valueOf(3.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_LINEAR", Double.valueOf(4.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_ROTATORY", Double.valueOf(5.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_INVERTED_ROTARY", Double.valueOf(6.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_CYLINDER", Double.valueOf(7.0d));
+        hashtable.put("SEGUI_VIEW_TYPE_INVERTED_ CYLINDER", Double.valueOf(8.0d));
+        hashtable.put("SEGUI_DEFAULT_BEHAVIOR", Double.valueOf(0.0d));
+        hashtable.put("SEGUI_SINGLE_SELECT_BEHAVIOR", Double.valueOf(1.0d));
+        hashtable.put("SEGUI_MULTI_SELECT_BEHAVIOR", Double.valueOf(2.0d));
+        hashtable.put("SEGUI_HEIGHT_BY_FORM_REFERENCE", Double.valueOf(1.0d));
+        hashtable.put("SEGUI_HEIGHT_BY_PARENT_WIDTH", Double.valueOf(2.0d));
+        hashtable.put("HORIZONTAL_IMAGESTRIP_VIEW_TYPE_STRIPVIEW", Double.valueOf(1.0d));
+        hashtable.put("HORIZONTAL_IMAGESTRIP_VIEW_TYPE_SLOTVIEW", Double.valueOf(2.0d));
+        hashtable.put("HORIZONTAL_IMAGESTRIP_VIEW_TYPE_COVERFLOW", Double.valueOf(4.0d));
+        hashtable.put("CAMERA_IMAGE_ACCESS_MODE_PUBLIC", Double.valueOf(1.0d));
+        hashtable.put("CAMERA_IMAGE_ACCESS_MODE_PRIVATE", Double.valueOf(2.0d));
+        hashtable.put("CAMERA_IMAGE_ACCESS_MODE_INMEMORY", Double.valueOf(3.0d));
+        hashtable.put("CAMERA_IMAGE_FORMAT_PNG", Double.valueOf(1.0d));
+        hashtable.put("CAMERA_IMAGE_FORMAT_JPEG", Double.valueOf(2.0d));
+        hashtable.put("SCROLLBOX_HEIGHT_BY_FORM_REFERENCE", Double.valueOf(1.0d));
+        hashtable.put("SCROLLBOX_HEIGHT_BY_PARENT_WIDTH", Double.valueOf(2.0d));
+        hashtable.put("SCROLLBOX_SCROLL_HORIZONTAL", Double.valueOf(1.0d));
+        hashtable.put("SCROLLBOX_SCROLL_VERTICAL", Double.valueOf(2.0d));
+        hashtable.put("SCROLLBOX_SCROLL_BOTH", Double.valueOf(3.0d));
+        hashtable.put("SCROLLBOX_SCROLL_NONE", Double.valueOf(4.0d));
+        hashtable.put("TABPANE_VIEW_TYPE_COLLAPSIBLEVIEW", Double.valueOf(1.0d));
+        hashtable.put("TABPANE_VIEW_TYPE_TABVIEW", Double.valueOf(2.0d));
+        hashtable.put("TABPANE_VIEW_TYPE_PAGEVIEW", Double.valueOf(3.0d));
+        hashtable.put("TABPANE_VIEW_TYPE_PANORAMAVIEW", Double.valueOf(4.0d));
+        hashtable.put("TABPANE_COLLAPSIBLE_IMAGE_POSITION_LEFT", Double.valueOf(1.0d));
+        hashtable.put("TABPANE_COLLAPSIBLE_IMAGE_POSITION_RIGHT", Double.valueOf(2.0d));
+        hashtable.put("TABPANE_COLLAPSIBLE_TABNAME_ALIGNMENT_LEFT", Double.valueOf(1.0d));
+        hashtable.put("TABPANE_COLLAPSIBLE_TABNAME_ALIGNMENT_RIGHT", Double.valueOf(2.0d));
+        hashtable.put("TABPANE_COLLAPSIBLE_TABNAME_ALIGNMENT_CENTER", Double.valueOf(3.0d));
+        hashtable.put("DATAGRID_COLUMN_TYPE_TEXT", "text");
+        hashtable.put("DATAGRID_COLUMN_TYPE_IMAGE", "image");
+        hashtable.put("BROWSER_REQUEST_METHOD_GET", "get");
+        hashtable.put("BROWSER_REQUEST_METHOD_POST", "post");
+        hashtable.put("LOADING_SCREEN_POSITION_FULL_SCREEN", "fullscreen");
+        hashtable.put("LOADING_SCREEN_POSITION_ONLY_CENTER", "center");
+        hashtable.put("MENUITEM_SHOW_AS_ACTION_NEVER", Integer.valueOf(cu.f1021b));
+        hashtable.put("MENUITEM_SHOW_AS_ACTION_ALWAYS", Integer.valueOf(cu.f1022c));
+        hashtable.put("MENUITEM_SHOW_AS_ACTION_IF_ROOM", Integer.valueOf(cu.f1023d));
+        hashtable.put("MENUITEM_SHOW_AS_ACTION_ALWAYS_WITH_TEXT", Integer.valueOf(cu.f1024e));
+        hashtable.put("MENUITEM_SHOW_AS_ACTION_IF_ROOM_WITH_TEXT", Integer.valueOf(cu.f1025f));
+        return hashtable;
+    }
+
+    public final String[] getMethods() {
+        return f3525a;
+    }
+
+    public final String getNameSpace() {
+        return "constants";
+    }
+}

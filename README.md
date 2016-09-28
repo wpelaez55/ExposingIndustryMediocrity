@@ -1,10 +1,12 @@
 Exposing Industry Mediocrity
 ============================
 
+![Exposing Industry Mediocrity](bgr.jpg)
+
 Is a data related with the Industry Mediocrity (Poor Security Level)
 
-
-<br><br>Under Construction ...<br><br><br>
+Critical Security Flaws: (Insufficient Transport Layer Protection, Lack of Binary Protections, Insecure Local Storage, Broken Cryptography)
+[CityBank.CO](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/Information.md)<br/>
 
 This Applications was disassembled and analyzed by me: Jheto Xekri<br><br>
 
@@ -13,5 +15,4 @@ You are looking an Cross Platform Developer, Reverser, Malware/Security Analyst,
 Profile web: http://about.me/jheto.xekri<br>
 or by Email: jheto.xekri@outlook.com<br>
 or by Whatsapp: +573122844198<br>
-or by Viber: +573122844198<br>
 or by Skype: jheto.xekri

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tabline">false</item>
+    <item type="id" name="wheelBkgnd">false</item>
+    <item type="id" name="wheelFocusDrawable">false</item>
+</resources>

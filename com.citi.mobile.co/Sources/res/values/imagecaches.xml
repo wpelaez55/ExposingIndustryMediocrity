@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="imagecache" name="remote_images_lru_cache_size">12.5</item>
+</resources>

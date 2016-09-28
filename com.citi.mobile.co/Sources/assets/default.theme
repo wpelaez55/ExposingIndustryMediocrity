@@ -1,0 +1,1886 @@
+{   "grey":
+    {
+                                            "wtype" : "Line",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "e1e1e100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "hboxCitiLocationsWhite":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000064",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "konygreytxtar":
+    {
+                                            "wtype" : "TextArea",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "69696700",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc",
+                                                          "border_radius" : 0
+                              }
+	 ,   "konygreytxtbx":
+    {
+                                            "wtype" : "TextBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "69696700",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "SknBlackPin":
+    {
+                                            "wtype" : "Button",
+                                                          "background_style" : "vg",
+                                                          "bg_type" : "two",
+                                                          "background_gradient_top_color" : "00000000",
+                                                          "background_gradient_bottom_color" : "c0c0c000",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBlkALLLoading":
+    {
+                                            "wtype" : "Blocked UI",
+                                                          "font_style" : "",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0,
+                                                          "ftype" : "blocked ui",
+                                                          "bimage" : "processing.gif",
+                                                          "width" : "31",
+                                                          "height" : "31",
+                                                          "bimagelocation" : "middle"
+                              }
+	 ,   "sknBoldGreyText":
+    {
+                                            "wtype" : "Button",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "4e4e4e00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBorderCollapse":
+    {
+                                            "wtype" : "HBox",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknBtnAccountActivity":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "accept.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 75,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnAccountActivityFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "accept_hover.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 75,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnACDMoreActivity":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "accept.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnACDMoreActivityFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "accept_hover.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnACDProxFatura":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "largebutton.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnACDProxFaturaFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "largebutton_foc.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnBackToDetails":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "reject.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 75,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnBackToDetailsFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "reject_hover.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 75,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnBarcodeScanner":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "barcode_scanner.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnBenefits":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "atmlocator.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnBenefitsFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "atmlocator_f.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "SknBtnChk":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "cb_nrm.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnChkFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "cb_sel.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnHDRSignOut":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "signout.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 85,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnHDRSignOutFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "signout.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 85,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnHelp":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "about_citi_mobile.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnHelpFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "about_citi_mobile_foc.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnIT1Step1Selected":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "step1_f.png",
+                                                          "width" : "58",
+                                                          "height" : "19",
+                                                          "font_color" : "ccd1ff32",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnIT1Step2NotSelected":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "step2.png",
+                                                          "width" : "58",
+                                                          "height" : "19",
+                                                          "font_color" : "7c7c7c00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnIT2Step2Selected":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "step2_f.png",
+                                                          "width" : "58",
+                                                          "height" : "19",
+                                                          "font_color" : "cccde532",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnIT5Step5NotSelected":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "step3.png",
+                                                          "width" : "58",
+                                                          "height" : "19",
+                                                          "font_color" : "7c7c7c00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnIT5Step5Selected":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "step3_f.png",
+                                                          "width" : "58",
+                                                          "height" : "19",
+                                                          "font_color" : "cccde500",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnLGNLink":
+    {
+                                            "wtype" : "Button",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnLGNLinkFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "font_weight" : "bold",
+                                                          "font_style" : "underline",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnLGNSignIn":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "signupf.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 114,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnLGNSignInFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "sign_up.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 114,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnLogin":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "login.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnLoginFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "login_foc.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnMORAbtCiti":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "about_citi_normal.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORAbtCitiFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "about_citi_focus.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORChangePwd":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "changepassword_more.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORContact":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "contact_normal.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORContactFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "contact_focus.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORFAQ":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "faq_more.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORForgotPwd":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "forgot_password_normal.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORForgotPwdFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "forgot_password_focus.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORMWSetting":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "info.png",
+                                                          "width" : "28",
+                                                          "height" : "28",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMOROOBToken":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "oobtoken_more.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORPrivacy":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "privacy_normal.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORPrivacyFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "privacy_focus.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORRegister":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "register_focus.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORTandC":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "terms_conditions_normal.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnMORTandCFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "terms_conditions_focus.png",
+                                                          "width" : "70",
+                                                          "height" : "70",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "SknBtnPin":
+    {
+                                            "wtype" : "Button",
+                                                          "font_color" : "80808000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknBtnTACAccept":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "accept.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 85,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnTACAcceptFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "accept.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 85,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnTACFinish":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "acceptf.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnTACFinishFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "acceptf.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnTACReject":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "reject.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 85,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknBtnTACRejectFoc":
+    {
+                                            "wtype" : "Button",
+                                                          "background_image" : "reject.png",
+                                                          "bg_type" : "image",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 85,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknChkLGNRememberMe":
+    {
+                                            "wtype" : "CheckBoxGroup",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknChkLocations":
+    {
+                                            "wtype" : "CheckBoxGroup",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknCmbCLSCountry":
+    {
+                                            "wtype" : "ComboBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "dddddd00",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknCmbLocations":
+    {
+                                            "wtype" : "ComboBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "cdcdcd00",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 109,
+                                                          "font_color" : "30303000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknFrmACDMenuMnu":
+    {
+                                            "wtype" : "Form",
+                                                          "background_image" : "bg.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknFrmACSBackground":
+    {
+                                            "wtype" : "Form",
+                                                          "background_image" : "bg.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknFrmBarCode":
+    {
+                                            "wtype" : "Form",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknFrmLGNBackgroundCiti":
+    {
+                                            "wtype" : "Form",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "login_bg.png",
+                                                          "customcss" : false,
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxACDActivitiesHeader":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "top_curve.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxACDCheckingActivity":
+    {
+                                            "wtype" : "HBox",
+                                                          "customcss" : false,
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxACDDetailsHeader":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "top_curve.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxACDMaskedCardNumber":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "d1d1d100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxACDNetTrxAmnt":
+    {
+                                            "wtype" : "HBox",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxACSAccountDescription":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "top_curve.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxACSBalancesPanel":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxACSBalancesPanelFoc":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "e8eff700",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxACSGlobalMsg":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "two",
+                                                          "background_style" : "vg",
+                                                          "background_gradient_top_color" : "ffffff00",
+                                                          "background_gradient_bottom_color" : "cdcdcd00",
+                                                          "customcss" : false,
+                                                          "border_color" : "66666601",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxACSScreenHeaderText":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "header2.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxACSThinMenu":
+    {
+                                            "wtype" : "HBox",
+                                                          "customcss" : true,
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxACSTopWelcomePanel":
+    {
+                                            "wtype" : "HBox",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxACSTotalBalance":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "customcss" : false,
+                                                          "border_color" : "ffffff00",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxALLLoadingBlkdUI":
+    {
+                                            "wtype" : "Blocked UI",
+                                                          "font_style" : "",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0,
+                                                          "ftype" : "blocked ui",
+                                                          "bimage" : "processing.gif",
+                                                          "width" : "31",
+                                                          "height" : "31",
+                                                          "bimagelocation" : "middle"
+                              }
+	 ,   "sknHbxALLPostLoginHeader":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "header.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxChangePasswordBoxHeader":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "top_curve.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxIT1StepsContainer":
+    {
+                                            "wtype" : "HBox",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxIT2SrcAcntContainer":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "top_curve.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxIT5MainPanel":
+    {
+                                            "wtype" : "HBox",
+                                                          "customcss" : false,
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxIT5PanelHeader":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "top_curve.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknHbxLGNErrorMsg":
+    {
+                                            "wtype" : "HBox",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxMSGContentContainer":
+    {
+                                            "wtype" : "HBox",
+                                                          "customcss" : false,
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxTACContentContainer":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "customcss" : false,
+                                                          "border_color" : "c0c0c000",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxTRDDetailRow":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "customcss" : false,
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknHbxTRDHeader":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "top_curve.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknInvertedGreyBtn":
+    {
+                                            "wtype" : "HBox",
+                                                          "background_image" : "top_curveinverted.png",
+                                                          "bg_type" : "image",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknIT3Textarea":
+    {
+                                            "wtype" : "TextArea",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "6d6e7100",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACDActivitySubTotal":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "56565600",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblACDBalanceLbl":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 107,
+                                                          "font_color" : "6d6e710a",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACDCreditTrx":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 107,
+                                                          "font_color" : "33990000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACDDebitTrx":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 107,
+                                                          "font_color" : "ff000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACDHeaderBalance":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 107,
+                                                          "font_color" : "6d6e710a",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACDNoActivity":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 107,
+                                                          "font_color" : "6d6e710a",
+                                                          "border_color" : "ffffff00",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSAccountName":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 114,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSBalances":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "80808000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSBalances2":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "80808000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSBalancesBold":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "80808000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSBalancesValue":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSBalancesWrap":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblACSBalancesWrapChar":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblACSBalancesWrapText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblACSBalancesWrapText2":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 88,
+                                                          "font_color" : "80808000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblACSCopyRight":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 74,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSGlobalMsg":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 85,
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSGreyCopyRight":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 74,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSLastVisit":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 85,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSScreenHeaderText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 114,
+                                                          "font_color" : "e6e7e800",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSTotalBalance":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblACSWelcomeText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 107,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblBoxHeaderWrapText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblCLSAddressLabels":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "59595900",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblCUPBoxHeader":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblCUPBoxHeaderValue":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblIT1SrcAccountName":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblIT4HolidayText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblLGNErrorMsg":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ff000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblLGNHiddenCountry":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "00000064",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblLocations":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "46464600",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblLocationsLongText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 120,
+                                                          "font_color" : "48484800",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLBLLocBoldGrey":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 125,
+                                                          "font_color" : "4b4b4b00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblLOCSearchType":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 120,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblMORMenuText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 105,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblSSLAccountName":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 114,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblTransWhite":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblTRFLegalText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 128,
+                                                          "font_color" : "44444400",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknLblWrapText":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblWrapTextChar":
+    {
+                                            "wtype" : "Label",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLblWrapTextCharNormal":
+    {
+                                            "wtype" : "Label",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLnkLGNFullSite":
+    {
+                                            "wtype" : "Link",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknLnkLGNFullSiteFoc":
+    {
+                                            "wtype" : "Link",
+                                                          "font_weight" : "bold",
+                                                          "font_style" : "underline",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknLocationTextBox":
+    {
+                                            "wtype" : "TextArea",
+                                                          "font_size" : 125,
+                                                          "font_color" : "66666600",
+                                                          "border_color" : "6e6e6e00",
+                                                          "border_width" : 2,
+                                                          "border_style" : "rc",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknLstACSCountrySelection":
+    {
+                                            "wtype" : "ListBox",
+                                                          "background_image" : "top_curve.png",
+                                                          "bg_type" : "image",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknLstACSCountrySelectionFoc":
+    {
+                                            "wtype" : "ListBox",
+                                                          "background_style" : "vg",
+                                                          "bg_type" : "two",
+                                                          "background_gradient_top_color" : "d7d7d700",
+                                                          "background_gradient_bottom_color" : "afafaf00",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknLstIT3Currency":
+    {
+                                            "wtype" : "ListBox",
+                                                          "background_style" : "vg",
+                                                          "bg_type" : "two",
+                                                          "background_gradient_top_color" : "ffffff00",
+                                                          "background_gradient_bottom_color" : "c0c0c000",
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "6d6e7100",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "sknPreLoginBackGround":
+    {
+                                            "wtype" : "Form",
+                                                          "bg_type" : "image",
+                                                          "background_image" : "startup.png",
+                                                          "customcss" : false,
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknRchDisclaimer":
+    {
+                                            "wtype" : "RichText",
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknRtwACSFooter":
+    {
+                                            "wtype" : "RichText",
+                                                          "font_size" : 88,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknRtwMSGRichTextLnk":
+    {
+                                            "wtype" : "RichText",
+                                                          "font_style" : "underline",
+                                                          "font_color" : "0080ff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknRtwMSGRichTextLnkFoc":
+    {
+                                            "wtype" : "RichText",
+                                                          "font_style" : "underline",
+                                                          "font_color" : "ff804000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknRtwTACContent":
+    {
+                                            "wtype" : "RichText",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_size" : 128,
+                                                          "font_color" : "44444400",
+                                                          "border_color" : "ffffff00",
+                                                          "border_width" : 3,
+                                                          "border_style" : "rc",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknSegACD1ColActvt":
+    {
+                                            "wtype" : "Segment",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_weight" : "bold",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "ffffff00",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknSegACD3ColActvt":
+    {
+                                            "wtype" : "Segment",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknSegACD3ColActvtSecHead":
+    {
+                                            "wtype" : "Segment",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknSegACDDetails":
+    {
+                                            "wtype" : "Segment",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "8000ff00",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "sknSegACSAccounts":
+    {
+                                            "wtype" : "Segment",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "8000ff00",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "sknSegACSAccountsSecHead":
+    {
+                                            "wtype" : "Segment",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 105,
+                                                          "font_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknSegACSAccountsTable":
+    {
+                                            "wtype" : "Segment",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknSegALLLoadingBlkdUI":
+    {
+                                            "wtype" : "Blocked UI",
+                                                          "font_style" : "",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0,
+                                                          "ftype" : "blocked ui",
+                                                          "bimage" : "processing.gif",
+                                                          "width" : "31",
+                                                          "height" : "31",
+                                                          "bimagelocation" : "middle"
+                              }
+	 ,   "sknSegBCSectionHeader":
+    {
+                                            "wtype" : "Segment",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "d1d1d100",
+                                                          "font_style" : "",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknSegIT1SrcAccntFoc":
+    {
+                                            "wtype" : "Segment",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "e8eff700",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknSegITBal":
+    {
+                                            "wtype" : "Segment",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknSegITBalances":
+    {
+                                            "wtype" : "Segment",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain"
+                              }
+	 ,   "sknSwtLGNiPhoneRememberMe":
+    {
+                                            "wtype" : "Switch",
+                                                          "bg_type" : "one",
+                                                          "left_background_color" : "ffffff00",
+                                                          "right_background_color" : "ffffff00",
+                                                          "font_weight" : "bold",
+                                                          "font_size" : 120,
+                                                          "left_font_color" : "ffffff00",
+                                                          "right_font_color" : "80808000"
+                              }
+	 ,   "sknSWTLocBranchesOnly":
+    {
+                                            "wtype" : "Switch",
+                                                          "bg_type" : "one",
+                                                          "left_background_color" : "ffffff00",
+                                                          "right_background_color" : "ffffff00",
+                                                          "left_font_color" : "00000000",
+                                                          "right_font_color" : "00000000"
+                              }
+	 ,   "skntxtBoxLocations":
+    {
+                                            "wtype" : "TextBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_size" : 125,
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "6e6e6400",
+                                                          "border_width" : 2,
+                                                          "border_style" : "rc",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknTxtIT3Amount":
+    {
+                                            "wtype" : "TextBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_size" : 110,
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "6d6e7100",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknTxtLGNPwdBlkdUI":
+    {
+                                            "wtype" : "Blocked UI",
+                                                          "font_style" : "",
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0,
+                                                          "ftype" : "blocked ui",
+                                                          "bimage" : "processing.gif",
+                                                          "width" : "31",
+                                                          "height" : "31",
+                                                          "bimagelocation" : "middle"
+                              }
+	 ,   "sknTxtLGNUserID":
+    {
+                                            "wtype" : "TextBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_size" : 121,
+                                                          "font_color" : "6d6e7100",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknVbxACDActivities":
+    {
+                                            "wtype" : "VBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000064",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "sknVbxACDDetailsPanel":
+    {
+                                            "wtype" : "VBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "sknVbxACDPrmSecAcntDetail":
+    {
+                                            "wtype" : "VBox",
+                                                          "customcss" : false,
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknVbxACSBalancesAndArrow":
+    {
+                                            "wtype" : "VBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "sknVbxACSBalancesOnly":
+    {
+                                            "wtype" : "VBox",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknVbxChangePasswordFieldsBox":
+    {
+                                            "wtype" : "VBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000064",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "sknVbxIT5ConfirmationPnl":
+    {
+                                            "wtype" : "VBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "trans":
+    {
+                                            "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "whiteBg":
+    {
+                                            "wtype" : "HBox",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "00000064",
+                                                          "border_width" : 1,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "whiteround":
+    {
+                                            "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "font_size" : 128,
+                                                          "font_color" : "44444400",
+                                                          "border_color" : "ffffff00",
+                                                          "border_width" : 3,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "whiteroundnew":
+    {
+                                            "wtype" : "HImageStrip",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "ffffff00",
+                                                          "border_color" : "ffffff00",
+                                                          "border_width" : 3,
+                                                          "border_style" : "rc"
+                              }
+	 ,   "sknLblACDUnbilledTransaction":
+    {
+                                            "wtype" : "Label",
+                                                          "font_size" : 107,
+                                                          "font_color" : "0080ff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "text_shadow" : {"x":0,"y":0,"br":0,"color":"00000000"}
+                              }
+	 ,   "sknFrmBGIE":
+    {
+                                            "wtype" : "Form",
+                                                          "bg_type" : "one",
+                                                          "background_color" : "0080ff00",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 ,   "sknGlbMessage1":
+    {
+                                            "wtype" : "RichText",
+                                                          "font_size" : 90,
+                                                          "font_color" : "00000000",
+                                                          "border_color" : "00000000",
+                                                          "border_width" : 0,
+                                                          "border_style" : "plain",
+                                                          "border_radius" : 0
+                              }
+	 }

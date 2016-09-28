@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="net" name="enable_conn_pool">true</item>
+    <item type="net" name="conn_total">20</item>
+    <item type="net" name="conn_per_route">10</item>
+    <item type="net" name="enable_gzip">true</item>
+    <item type="net" name="expect_100_continue">true</item>
+</resources>

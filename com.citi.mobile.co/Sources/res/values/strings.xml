@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notify_new_regid">true</string>
+    <string name="notify_new_regid_icon">icon</string>
+    <string name="notify_new_regid_title">New Registration ID</string>
+    <string name="notify_new_regid_desc" />
+    <string name="notify_new_regid_sound">false</string>
+    <string name="notify_new_regid_vibrate">false</string>
+    <string name="notify_new_regid_lights">false</string>
+    <string name="notify_new_regid_clear">false</string>
+    <string name="notify_push_msg">true</string>
+    <string name="notify_push_msg_notifications_count">1</string>
+    <string name="notify_push_msg_icon">icon</string>
+    <string name="notify_push_msg_default_title">New Push Message</string>
+    <string name="notify_push_msg_title_from_payload">true</string>
+    <string name="notify_push_msg_title_keys" />
+    <string name="notify_push_msg_default_desc" />
+    <string name="notify_push_msg_desc_from_payload">true</string>
+    <string name="notify_push_msg_desc_keys" />
+    <string name="notify_push_msg_sound">true</string>
+    <string name="notify_push_msg_vibrate">true</string>
+    <string name="notify_push_msg_lights">true</string>
+    <string name="notify_push_msg_clear">true</string>
+    <string name="app_name">CitiMobile CO</string>
+</resources>

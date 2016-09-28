@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="location" name="min_time">60</item>
+    <item type="location" name="min_distance">1</item>
+    <item type="location" name="accuracy_within_time">15</item>
+</resources>
