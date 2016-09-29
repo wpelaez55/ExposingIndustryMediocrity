@@ -12,8 +12,7 @@ Analysis:
 Deconstructing Kony Android Applications: https://www.blackhat.com/docs/ldn-15/materials/london-15-Weedon-Deconstructing-Kony-Android-Apps-wp.pdf
 <br>That is epic fail.
 
-
-<br><br>2 - Class: com.rsa.mobilesdk.sdk.RootedDeviceChecker "Root Protection"
+<br>2 - Class: com.rsa.mobilesdk.sdk.RootedDeviceChecker "Root Protection"
 
 <br>This class have a black list apps ("Superuser.apk", "myhappy.apk"), searching "su" on paths (/system/bin/", "/system/xbin/", "/sbin/",
 "/system/", "/system/bin/.ext/", "/system/usr/we-need-root/") and searching packages ("com.noshufou.android.su", "eu.chainfire.supersu",
@@ -22,7 +21,7 @@ Deconstructing Kony Android Applications: https://www.blackhat.com/docs/ldn-15/m
 
 <br>Can be attacked by: Kernel Rootkits or Userland Rootkits.
 
-<br><br>3 - Class: com.rsa.mobilesdk.sdk.ApplicationKey "Crypto Store"
+<br>3 - Class: com.rsa.mobilesdk.sdk.ApplicationKey "Crypto Store"
 
 <br>This class contains an method more advanced "getStoredApplicationKey" that contains the "Super Crypto Key";
 
@@ -33,9 +32,9 @@ if (prefs != null) {
 
 <br>Can be attacked by: Kernel Rootkits or Userland Rootkits, is really simple read an file with root privileges, that is epic again.
 
-<br><br>You can read more about that, Insecure Local Storage: Shared Preferences: http://resources.infosecinstitute.com/android-hacking-security-part-9-insecure-local-storage-shared-preferences/
+<br>You can read more about that, Insecure Local Storage: Shared Preferences: http://resources.infosecinstitute.com/android-hacking-security-part-9-insecure-local-storage-shared-preferences/
 
-<br><br>4 - Protections against MiTM(Man In The Middle)
+<br>4 - Protections against MiTM(Man In The Middle)
 
 <br>Zero protections against MiTM, you can see username, password and values of the account, that is epic again.
 
