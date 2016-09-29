@@ -38,10 +38,10 @@ if (prefs != null) {
 
 <br>Zero protections against MiTM, you can see username, password and values of the account, that is epic again.
 
-<br>![MiTM](MITM.png)
-<br>![MiTM](MITM.png)
-<br>![MiTM](MITM.png)
-<br>![MiTM](MITM.png)
+<br>![MiTM](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/MiTM/MITM01.png)
+<br>![MiTM](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/MiTM/MITM02.png)
+<br>![MiTM](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/MiTM/MITM03.png)
+<br>![MiTM](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/MiTM/MITM04.png)
 
 <br>This is the first update, Thanks City Bank for hire the "Best Developers & Security Guys", without that i can't write that, continue hiring this type of idiots lol.
 
