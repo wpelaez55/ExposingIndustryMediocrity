@@ -1,12 +1,19 @@
 Application Vulnerable:
 
-android:versionCode="24"<br>
-android:versionName="14.3"<br>
-package="com.citi.mobile.co"<br>
-platformBuildVersionCode="7"<br>
-platformBuildVersionName="2.1-update1"<br>
+CitiMobile CO, Citibank Colombia S.A.<br>
+Google Play: https://play.google.com/store/apps/details?id=com.citi.mobile.co<br>
+
+VersionCode="24"<br>
+VersionName="14.3"<br>
+Package="com.citi.mobile.co"<br>
+PlatformBuildVersionCode="7"<br>
+PlatformBuildVersionName="2.1-update1"<br>
 
 Analysis:
+
+We started with a typical reversing of an Android application downloaded from Google Play<br>
+
+After analysis we found the following problems:<br>
 
 <br>1 - "libkonyjsvm.so" 4MB of ELF ? estrange, it sounds familiar.
 Deconstructing Kony Android Applications: https://www.blackhat.com/docs/ldn-15/materials/london-15-Weedon-Deconstructing-Kony-Android-Apps-wp.pdf
