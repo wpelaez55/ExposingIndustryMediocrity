@@ -2,6 +2,7 @@ Application Vulnerable:
 
 CitiMobile CO, Citibank Colombia S.A.<br>
 Google Play: https://play.google.com/store/apps/details?id=com.citi.mobile.co<br>
+Vulnerable APK: https://drive.google.com/open?id=0B1UAda_nAopfWkY3NlBtQ2FocFU<br>
 
 VersionCode="24"<br>
 VersionName="14.3"<br>
