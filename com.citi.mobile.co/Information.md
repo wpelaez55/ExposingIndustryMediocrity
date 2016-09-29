@@ -1,14 +1,14 @@
 Application Vulnerable:
 
-android:versionCode="24"
-android:versionName="14.3"
-package="com.citi.mobile.co"
-platformBuildVersionCode="7"
-platformBuildVersionName="2.1-update1"
+android:versionCode="24"<br>
+android:versionName="14.3"<br>
+package="com.citi.mobile.co"<br>
+platformBuildVersionCode="7"<br>
+platformBuildVersionName="2.1-update1"<br>
 
 Analysis:
 
-<br><br>1 - "libkonyjsvm.so" 4MB of ELF ? estrange, it sounds familiar.
+<br>1 - "libkonyjsvm.so" 4MB of ELF ? estrange, it sounds familiar.
 Deconstructing Kony Android Applications: https://www.blackhat.com/docs/ldn-15/materials/london-15-Weedon-Deconstructing-Kony-Android-Apps-wp.pdf
 <br>That is epic fail.
 
