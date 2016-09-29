@@ -1,7 +1,7 @@
 Exposing Industry Mediocrity
 ============================
 
-![Exposing Industry Mediocrity](bgr.jpg)
+![Exposing Industry Mediocrity](bgr.jpeg)
 
 Is a data related with the Industry Mediocrity (Poor Security Level)
 
