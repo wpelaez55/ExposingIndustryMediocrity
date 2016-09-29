@@ -31,12 +31,10 @@ This class can be attacked by: Rootkits, easily an attacker can inject code, and
 
 This class contains an method more advanced "getStoredApplicationKey" that contains the "Crypto Key";<br>
 
-***
-SharedPreferences prefs = context.getSharedPreferences(APP_KEY_SHARED_PREFS, Context.MODE_PRIVATE);
-if (prefs != null) {
-    return prefs.getString(APP_KEY_PREF, null);
-}
-***
+>SharedPreferences prefs = context.getSharedPreferences(APP_KEY_SHARED_PREFS, Context.MODE_PRIVATE);<br>
+>if (prefs != null) {<br>
+>    return prefs.getString(APP_KEY_PREF, null);<br>
+>}<br>
 
 That can be attacked by: inject code inside the VM or access with root privileges, is really simple read an file.<br>
 
