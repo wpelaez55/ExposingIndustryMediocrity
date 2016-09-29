@@ -16,7 +16,7 @@ Which it has a number of serious security problems:<br>
 
 This application allows cloning of credentials via MITM attacks, It is something really serious in a banking application.<br>
 
-Details: [CityBank.CO](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/Information.md)<br/><br/>
+Details: [CityBank.CO](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/Information.md)<br/>
 
 ***
 
