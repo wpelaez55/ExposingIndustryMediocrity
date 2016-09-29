@@ -42,7 +42,7 @@ You can read more about that, Insecure Local Storage: Shared Preferences: http:/
 
 4 - Protections against MiTM(Man In The Middle)<br>
 
-Zero protections against MiTM, you can see username, password and values of the account.<br>
+Zero protections against MiTM, Certificate validation or domain validation, you can see username, password and values of the account.<br>
 
 ![MiTM](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/MiTM/MITM01.png)<br>
 ![MiTM](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/MiTM/MITM02.png)<br>
