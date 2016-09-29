@@ -3,6 +3,8 @@ Exposing Industry Mediocrity
 
 ![Exposing Industry Mediocrity](bgr.jpeg)
 
+***
+
 This time i be exposes to: [CitiMobile CO, Citibank Colombia S.A](https://play.google.com/store/apps/details?id=com.citi.mobile.co)<br>
 
 Which it has a number of serious security problems:<br>
@@ -14,7 +16,9 @@ Which it has a number of serious security problems:<br>
 
 This application allows cloning of credentials via MITM attacks, It is something really serious in a banking application.<br>
 
-[CityBank.CO](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/Information.md)<br/>
+Details: [CityBank.CO](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/Information.md)<br/><br/>
+
+***
 
 This Applications was disassembled and analyzed by me: Jheto Xekri<br><br>
 
