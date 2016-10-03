@@ -54,4 +54,7 @@ Is really sick see this type of apps on the market, thinking that is an Colombia
 
 Thanks City Bank for hire the "Best Developers & Security Guys", without that i can't write that, continue hiring this type of idiots lol.<br>
 
+![Email](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/city_email.png)<br>
+
+
 
