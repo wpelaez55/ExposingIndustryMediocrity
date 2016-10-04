@@ -52,7 +52,7 @@ Zero protections against MiTM, Certificate validation or domain validation, you 
 
 Is really sick see this type of apps on the market, thinking that is an Colombian Bank App.<br>
 
-Thanks City Bank for hire the "Best Developers & Security Guys", without that i can't write that, continue hiring this type of idiots lol.<br>
+Citi Bank maybe is time for hire better "Developers & Security Guys".<br>
 
 ![Email](https://github.com/JhetoX/ExposingIndustryMediocrity/blob/master/com.citi.mobile.co/email.png)<br>
 
