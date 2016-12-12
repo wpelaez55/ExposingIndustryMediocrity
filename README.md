@@ -30,7 +30,7 @@ Which it has a number of serious security problems:<br>
 
 This application allows cloning of credentials via VM Injection attacks, the company responsible for developing the app was [Todo1](http://www.todo1services.com), too detect an insecure library developed by ([Easy Solutions](https://www.easysol.net))<br>
 
-Details: [BANCO DAVIVIENDA S.A](https://github.com/JhetoX/CordovaBankingApp)<br/>
+Details: [DAVIVIENDA S.A](https://github.com/JhetoX/CordovaBankingApp)<br/>
 
 
 ***
