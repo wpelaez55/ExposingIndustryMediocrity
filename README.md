@@ -26,7 +26,7 @@ Which it has a number of serious security problems:<br>
 1-Insufficient Transport Layer Protection<br>
 2-Lack of Binary Protections<br>
 3-Insecure Local Storage<br>
-4-Broken Cryptography(Is need an deep test)<br>
+4-Broken Cryptography<br>
 
 This application allows cloning of credentials via VM Injection attacks, the company responsible for developing the app was [Todo1](http://www.todo1services.com), too detect an insecure library developed by ([Easy Solutions](https://www.easysol.net))<br>
 
